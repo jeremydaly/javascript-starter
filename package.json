@@ -1,0 +1,14 @@
+{
+  "name": "@ampt-templates/javascript-starter",
+  "version": "1.0.0",
+  "description": "Ampt JavaScript template",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ampt"
+  },
+  "ampt": {
+    "app": "javascript-starter"
+  }
+}
