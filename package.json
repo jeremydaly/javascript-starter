@@ -9,6 +9,7 @@
     "start": "ampt"
   },
   "ampt": {
-    "app": "javascript-starter"
+    "app": "javascript-starter",
+    "org": "jeremy-ampt"
   }
 }
